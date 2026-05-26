@@ -30,7 +30,7 @@
 - Become confident in technical communication
 
 ## 📫 Connect With Me
-- LinkedIn: add-your-link
+- LinkedIn: https://www.linkedin.com/in/sonam4990/
 - GitHub: https://github.com/sonam4990
 
 ⭐ “Learning consistently one step at a time.”
