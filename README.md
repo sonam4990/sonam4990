@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, I’m Sonam.
 <!--
 **sonam4990/sonam4990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
