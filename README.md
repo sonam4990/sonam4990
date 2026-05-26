@@ -1,15 +1,36 @@
-##                                                                 Hi there, I’m Sonam.
-<!--
-**sonam4990/sonam4990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sonam 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Graduate  
+💻 Learning Python, QA Testing, APIs, SQL, and AI/ML  
+🚀 Currently building projects and improving problem-solving skills  
+🌱 Exploring Technical Support Engineering and Software Testing roles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Python
+- SQL
+- HTML/CSS
+- Git & GitHub
+- Manual Testing
+- APIs & Debugging Basics
+
+## 📚 Currently Learning
+- QA Automation
+- API Testing
+- MERN Stack
+
+## 📌 Projects
+- 🔗 Linktree Clone
+- 🧠 AI/ML Practice Projects
+- 🐍 Python Learning Repository
+
+## 🎯 Goals for 2026
+- Crack a product-based company
+- Build strong GitHub projects
+- Improve DSA and problem-solving
+- Become confident in technical communication
+
+## 📫 Connect With Me
+- LinkedIn: add-your-link
+- GitHub: https://github.com/sonam4990
+
+⭐ “Learning consistently one step at a time.”
